@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="510" viewBox="0 0 1140 510" font-family="Helvetica, Arial, sans-serif" font-size="11">
+<defs><marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 z" fill="context-stroke"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="8" y="18" font-size="15" font-weight="bold">Website Relaunch (sample)</text>
+<rect x="320" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="322" y="38" font-weight="bold" fill="#333">Oct 2026</text>
+<line x1="320" y1="24" x2="320" y2="480" stroke="#999"/>
+<text x="328" y="60" fill="#666" font-size="9" text-anchor="middle">24</text>
+<rect x="336" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="344" y="60" fill="#666" font-size="9" text-anchor="middle">25</text>
+<text x="360" y="60" fill="#666" font-size="9" text-anchor="middle">26</text>
+<text x="376" y="60" fill="#666" font-size="9" text-anchor="middle">27</text>
+<text x="392" y="60" fill="#666" font-size="9" text-anchor="middle">28</text>
+<text x="408" y="60" fill="#666" font-size="9" text-anchor="middle">29</text>
+<text x="424" y="60" fill="#666" font-size="9" text-anchor="middle">30</text>
+<rect x="432" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="440" y="60" fill="#666" font-size="9" text-anchor="middle">31</text>
+<rect x="448" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="450" y="38" font-weight="bold" fill="#333">Nov 2026</text>
+<line x1="448" y1="24" x2="448" y2="480" stroke="#999"/>
+<text x="456" y="60" fill="#666" font-size="9" text-anchor="middle">1</text>
+<text x="472" y="60" fill="#666" font-size="9" text-anchor="middle">2</text>
+<text x="488" y="60" fill="#666" font-size="9" text-anchor="middle">3</text>
+<text x="504" y="60" fill="#666" font-size="9" text-anchor="middle">4</text>
+<text x="520" y="60" fill="#666" font-size="9" text-anchor="middle">5</text>
+<text x="536" y="60" fill="#666" font-size="9" text-anchor="middle">6</text>
+<rect x="544" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="552" y="60" fill="#666" font-size="9" text-anchor="middle">7</text>
+<rect x="560" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="568" y="60" fill="#666" font-size="9" text-anchor="middle">8</text>
+<text x="584" y="60" fill="#666" font-size="9" text-anchor="middle">9</text>
+<text x="600" y="60" fill="#666" font-size="9" text-anchor="middle">10</text>
+<text x="616" y="60" fill="#666" font-size="9" text-anchor="middle">11</text>
+<text x="632" y="60" fill="#666" font-size="9" text-anchor="middle">12</text>
+<text x="648" y="60" fill="#666" font-size="9" text-anchor="middle">13</text>
+<rect x="656" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="664" y="60" fill="#666" font-size="9" text-anchor="middle">14</text>
+<rect x="672" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="680" y="60" fill="#666" font-size="9" text-anchor="middle">15</text>
+<text x="696" y="60" fill="#666" font-size="9" text-anchor="middle">16</text>
+<text x="712" y="60" fill="#666" font-size="9" text-anchor="middle">17</text>
+<text x="728" y="60" fill="#666" font-size="9" text-anchor="middle">18</text>
+<text x="744" y="60" fill="#666" font-size="9" text-anchor="middle">19</text>
+<text x="760" y="60" fill="#666" font-size="9" text-anchor="middle">20</text>
+<rect x="768" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="776" y="60" fill="#666" font-size="9" text-anchor="middle">21</text>
+<rect x="784" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="792" y="60" fill="#666" font-size="9" text-anchor="middle">22</text>
+<text x="808" y="60" fill="#666" font-size="9" text-anchor="middle">23</text>
+<text x="824" y="60" fill="#666" font-size="9" text-anchor="middle">24</text>
+<text x="840" y="60" fill="#666" font-size="9" text-anchor="middle">25</text>
+<text x="856" y="60" fill="#666" font-size="9" text-anchor="middle">26</text>
+<text x="872" y="60" fill="#666" font-size="9" text-anchor="middle">27</text>
+<rect x="880" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="888" y="60" fill="#666" font-size="9" text-anchor="middle">28</text>
+<rect x="896" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="904" y="60" fill="#666" font-size="9" text-anchor="middle">29</text>
+<text x="920" y="60" fill="#666" font-size="9" text-anchor="middle">30</text>
+<text x="930" y="38" font-weight="bold" fill="#333">Dec 2026</text>
+<line x1="928" y1="24" x2="928" y2="480" stroke="#999"/>
+<text x="936" y="60" fill="#666" font-size="9" text-anchor="middle">1</text>
+<text x="952" y="60" fill="#666" font-size="9" text-anchor="middle">2</text>
+<text x="968" y="60" fill="#666" font-size="9" text-anchor="middle">3</text>
+<text x="984" y="60" fill="#666" font-size="9" text-anchor="middle">4</text>
+<rect x="992" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="1000" y="60" fill="#666" font-size="9" text-anchor="middle">5</text>
+<rect x="1008" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="1016" y="60" fill="#666" font-size="9" text-anchor="middle">6</text>
+<text x="1032" y="60" fill="#666" font-size="9" text-anchor="middle">7</text>
+<text x="1048" y="60" fill="#666" font-size="9" text-anchor="middle">8</text>
+<text x="1064" y="60" fill="#666" font-size="9" text-anchor="middle">9</text>
+<text x="1080" y="60" fill="#666" font-size="9" text-anchor="middle">10</text>
+<text x="1096" y="60" fill="#666" font-size="9" text-anchor="middle">11</text>
+<rect x="1104" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="1112" y="60" fill="#666" font-size="9" text-anchor="middle">12</text>
+<rect x="1120" y="64" width="16" height="416" fill="#f1f3f6"/>
+<text x="1128" y="60" fill="#666" font-size="9" text-anchor="middle">13</text>
+<line x1="0" y1="64" x2="1140" y2="64" stroke="#666"/>
+<text x="6" y="81" font-weight="bold">1 Planning</text>
+<rect x="0" y="90" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="107">1.1 Kick-off &amp; scope</text>
+<text x="18" y="133">1.2 Requirements</text>
+<rect x="0" y="142" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="159">1.3 Plan approved</text>
+<text x="6" y="185" font-weight="bold">2 Design</text>
+<rect x="0" y="194" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="211">2.1 Wireframes</text>
+<text x="18" y="237">2.2 Visual design</text>
+<rect x="0" y="246" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="263">2.3 Design sign-off</text>
+<text x="6" y="289" font-weight="bold">3 Build</text>
+<rect x="0" y="298" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="315">3.1 Backend API</text>
+<text x="18" y="341">3.2 Frontend pages</text>
+<rect x="0" y="350" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="367">3.3 Content migration</text>
+<text x="18" y="393">3.4 Integration</text>
+<rect x="0" y="402" width="320" height="26" fill="#fafafa"/>
+<text x="6" y="419" font-weight="bold">4 Launch</text>
+<text x="18" y="445">4.1 QA &amp; fixes</text>
+<rect x="0" y="454" width="320" height="26" fill="#fafafa"/>
+<text x="18" y="471">4.2 Go live</text>
+<line x1="328" y1="24" x2="328" y2="480" stroke="#e5484d" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M384,103 L392,103 L392,116 L376,116 L376,129 L384,129" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M496,129 L504,129 L504,142 L488,142 L488,155 L496,155" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M496,155 L504,155 L504,194 L488,194 L488,207 L496,207" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M496,207 L488,207 L488,233 L528,233" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M656,233 L664,233 L664,259 L688,259" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M688,259 L696,259 L696,298 L680,298 L680,311 L688,311" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M688,259 L696,259 L696,324 L680,324 L680,337 L688,337" fill="none" stroke="#6b6b6b" stroke-width="1" marker-end="url(#ah)"/>
+<path d="M688,259 L696,259 L696,363 L704,363" fill="none" stroke="#6b6b6b" stroke-width="1" marker-end="url(#ah)"/>
+<path d="M880,311 L888,311 L888,389 L912,389" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M848,337 L968,337 L968,389 L960,389" fill="none" stroke="#6b6b6b" stroke-width="1" marker-end="url(#ah)"/>
+<path d="M960,389 L968,389 L968,428 L952,428 L952,441 L960,441" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<path d="M816,363 L824,363 L824,441 L960,441" fill="none" stroke="#6b6b6b" stroke-width="1" marker-end="url(#ah)"/>
+<path d="M1072,441 L1080,441 L1080,454 L1064,454 L1064,467 L1072,467" fill="none" stroke="#c0392b" stroke-width="1.4" marker-end="url(#ah)"/>
+<rect x="352" y="70" width="144" height="6" fill="#333"/>
+<rect x="352" y="70" width="82.28572" height="6" fill="#000"/>
+<path d="M352 76 l8 0 l-4 6 z M496 76 l-8 0 l4 6 z" fill="#333"/>
+<rect x="352" y="95" width="32" height="12" rx="2" fill="#d64541"/>
+<rect x="352" y="95" width="32" height="12" rx="2" fill="#8f1d1d"/>
+<text x="389" y="105" fill="#555" font-size="10">Alice</text>
+<rect x="384" y="121" width="112" height="12" rx="2" fill="#d64541"/>
+<rect x="384" y="121" width="44.8" height="12" rx="2" fill="#8f1d1d"/>
+<text x="501" y="131" fill="#555" font-size="10">Alice</text>
+<path d="M490 153 L496 147 L502 153 L496 159 z" fill="#c0392b"/>
+<rect x="496" y="174" width="160" height="6" fill="#333"/>
+<rect x="496" y="174" width="0" height="6" fill="#000"/>
+<path d="M496 180 l8 0 l-4 6 z M656 180 l-8 0 l4 6 z" fill="#333"/>
+<rect x="496" y="199" width="96" height="12" rx="2" fill="#d64541"/>
+<rect x="496" y="199" width="0" height="12" rx="2" fill="#8f1d1d"/>
+<text x="597" y="209" fill="#555" font-size="10">Bob</text>
+<rect x="528" y="225" width="128" height="12" rx="2" fill="#d64541"/>
+<rect x="528" y="225" width="0" height="12" rx="2" fill="#8f1d1d"/>
+<text x="661" y="235" fill="#555" font-size="10">Bob</text>
+<path d="M682 257 L688 251 L694 257 L688 263 z" fill="#c0392b"/>
+<rect x="688" y="278" width="272" height="6" fill="#333"/>
+<rect x="688" y="278" width="0" height="6" fill="#000"/>
+<path d="M688 284 l8 0 l-4 6 z M960 284 l-8 0 l4 6 z" fill="#333"/>
+<rect x="688" y="303" width="192" height="12" rx="2" fill="#d64541"/>
+<rect x="688" y="303" width="0" height="12" rx="2" fill="#8f1d1d"/>
+<text x="885" y="313" fill="#555" font-size="10">Alice</text>
+<rect x="688" y="329" width="160" height="12" rx="2" fill="#4285cf"/>
+<rect x="688" y="329" width="0" height="12" rx="2" fill="#1c5496"/>
+<text x="853" y="339" fill="#555" font-size="10">Bob</text>
+<rect x="704" y="355" width="112" height="12" rx="2" fill="#4285cf"/>
+<rect x="704" y="355" width="0" height="12" rx="2" fill="#1c5496"/>
+<text x="821" y="365" fill="#555" font-size="10">Carol[50%]</text>
+<rect x="912" y="381" width="48" height="12" rx="2" fill="#d64541"/>
+<rect x="912" y="381" width="0" height="12" rx="2" fill="#8f1d1d"/>
+<text x="965" y="391" fill="#555" font-size="10">Alice[50%], Bob[50%]</text>
+<rect x="960" y="408" width="112" height="6" fill="#333"/>
+<rect x="960" y="408" width="0" height="6" fill="#000"/>
+<path d="M960 414 l8 0 l-4 6 z M1072 414 l-8 0 l4 6 z" fill="#333"/>
+<rect x="960" y="433" width="112" height="12" rx="2" fill="#d64541"/>
+<rect x="960" y="433" width="0" height="12" rx="2" fill="#8f1d1d"/>
+<text x="1077" y="443" fill="#555" font-size="10">Carol</text>
+<path d="M1066 465 L1072 459 L1078 465 L1072 471 z" fill="#c0392b"/>
+<text x="8" y="502" fill="#777" font-size="9">Legend: blue = task, red = critical path, black bracket = summary, grey strip = baseline, red dashed line = today. Exported by ProjectCraft.</text>
+</svg>

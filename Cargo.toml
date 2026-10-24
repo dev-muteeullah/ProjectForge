@@ -1,0 +1,21 @@
+[package]
+name = "projectcraft"
+version = "0.1.0"
+edition = "2021"
+description = "ProjectCraft - a Microsoft Project style scheduler in pure Rust (egui + SQLite)"
+
+[dependencies]
+# Immediate-mode GUI (pure Rust). eframe = native window/event loop, egui_extras = TableBuilder + DatePicker.
+eframe = "0.37.0"
+egui_extras = { version = "0.37.0", features = ["datepicker"] }
+# SQLite working file. "bundled" compiles SQLite from source so no system lib is needed.
+rusqlite = { version = "0.41.0", features = ["bundled"] }
+chrono = { version = "0.4.45", features = ["serde"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+# egui_extras DatePickerButton uses jiff dates; we convert to/from chrono at the widget boundary.
+jiff = "0.2"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
